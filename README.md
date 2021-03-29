@@ -7,6 +7,8 @@
   Gatsby Starter Portfolio: Cara
 </h1>
 
+<img width="1428" alt="スクリーンショット 2021-03-29 20 52 19" src="https://user-images.githubusercontent.com/70472437/112832985-0b795e00-90d1-11eb-950c-d053c1f08866.png">
+
 <p align="center">
   <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the 0BSD license." />
